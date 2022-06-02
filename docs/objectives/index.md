@@ -50,9 +50,9 @@
 
 
 
-- [ ] Organize under each sidebar category:
+- [x] Organize under each sidebar category:
 
-  - [ ] The Date
+  - [x] The Date
 
   - [ ] A title summarizing the tab's information
 
