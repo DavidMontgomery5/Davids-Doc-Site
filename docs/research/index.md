@@ -1,5 +1,9 @@
 # Things I Didn't know
 
-[Sharepoint](/research/sharepoint/)
+## [Sharepoint](/research/sharepoint/)
 
-[Web Development](/research/webdev/)
+Find my SharePoint research here!
+
+## [Web Development](/research/webdev/)
+
+Find my Web Development research here!
