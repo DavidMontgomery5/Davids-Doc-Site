@@ -1,6 +1,6 @@
 # Other Interns I Worked With
 
-## Interns
+### Departments
 
 | Interns    | David Montgomery              | Sofia Del Aguila                      | Stefanie Chapa  | Leo Zeng   | Cameron Matthews              | Cameron Robicheaux |
 | ---------- | ----------------------------- | ------------------------------------- | --------------- | ---------- | ----------------------------- | ------------------ |
