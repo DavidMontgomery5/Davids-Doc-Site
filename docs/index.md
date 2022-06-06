@@ -4,11 +4,11 @@
 
 ## Welcome to my Surge Internship Documentation Site!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta eaque cumque aut nihil at, ullam itaque, ipsam officiis voluptates aspernatur provident qui ducimus illum cum error odio sequi, id perferendis quod maiores deleniti! Dicta officia ab recusandae temporibus omnis nesciunt, porro, optio, iste quia ipsam commodi minima perspiciatis sunt! Ea?
+Throughout this documentation site you will see how my time at Surge Energy was spent, whether it be research on various topics, new people i've met, and what the enviorment was like day to day.
 
 ## Contact Me
 
-[Contact Page](/contact/)
+Get in touch with me by going to the [Contact Page](/contact/)
 
 ## Code Example
 
@@ -18,7 +18,7 @@ console.log(#include <iostream>); The Date is 6/1/22
 
 ## Interns
 
-Learn about my fellow [interns](/interns/).
+Learn about my fellow [Interns](/interns/).
 
 ## David's Internship Blog
 
@@ -30,7 +30,7 @@ Learn about my fellow [interns](/interns/).
 
 [Research Page](/research/)
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat sint et ad consectetur facilis molestiae, ut consequuntur, alias quibusdam similique quis cum dicta distinctio itaque obcaecati quisquam harum omnis illo vel modi amet! Molestias tempora cupiditate maiores eveniet, corporis non dignissimos nam, doloremque quia vero, ex nesciunt aliquam. Dolores, architecto.
+Do this at the end of the internship Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat sint et ad consectetur facilis molestiae, ut consequuntur, alias quibusdam similique quis cum dicta distinctio itaque obcaecati quisquam harum omnis illo vel modi amet! Molestias tempora cupiditate maiores eveniet, corporis non dignissimos nam, doloremque quia vero, ex nesciunt aliquam. Dolores, architecto.
 
 ## Views from Surge
 
