@@ -11,6 +11,26 @@ module.exports = {
         text: "Home",
         link: "/",
       },
+      {
+        text: "About",
+        link: "/about/",
+      },
+      {
+        text: "Surge Interns",
+        link: "/interns/",
+      },
+      {
+        text: "Research",
+        link: "/research/",
+      },
+      {
+        text: "Objectives",
+        link: "/objectives/",
+      },
+      {
+        text: "Blog",
+        link: "/blog/",
+      },
     ],
   },
 };
