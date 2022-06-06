@@ -13,12 +13,18 @@ Get in touch with me by going to the [Contact Page](/contact/)
 ## Code Example
 
 ```js
-console.log(#include <iostream>); The Date is 6/1/22
+label {
+  color: #0087cc;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 18px;
+  padding: 5px 9px;
+  transition: all .15s ease;
 ```
 
 ## Interns
 
-Learn about my fellow [Interns](/interns/).
+Learn about me and my fellow [Interns](/interns/).
 
 ## David's Internship Blog
 
