@@ -10,7 +10,7 @@ Learned the right way to set up a website from scratch. Talked with Stefanie on 
 
 ## Week of June 6th - June 10:
 
-Today was a pretty quite day at the office Taj taught me more about Github
+Today was a pretty quite day at the office Taj taught me more about Github. Going into more detail he taught me about forking while also teaching me about push and pull requests. I also learned that sometimes entire companies are run through github, which was a pretty fascinating thought. Another cool thing about github was that people who follow you can take a copy of your work and improve it by themselves then submit it back to you for approval, Thats kinda awesome. :)
 
 ### Back to [Home](/)
 

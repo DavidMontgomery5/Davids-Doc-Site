@@ -32,12 +32,22 @@ Learn about me and my fellow [Interns](/interns/).
 
 [Weekly June Blog](/blog/june/)
 
+[Weekly July Blog](/blog/july/)
+
+[Daily August Blog](/blog/august/)
+
 ## SharePoint & Intranet Research Summary
 
 [Research Page](/research/)
 
-Do this at the end of the internship Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat sint et ad consectetur facilis molestiae, ut consequuntur, alias quibusdam similique quis cum dicta distinctio itaque obcaecati quisquam harum omnis illo vel modi amet! Molestias tempora cupiditate maiores eveniet, corporis non dignissimos nam, doloremque quia vero, ex nesciunt aliquam. Dolores, architecto.
+This will be filled out at the end of my Summer Internship.
 
 ## Views from Surge
 
 ![a picture of my whiteboard](/assets/board.jpg)
+
+![First Dinner with Surge](/assets/firstdinner.jpg)
+
+![Meeting Linhua for the First Time](/assets/linhua.jpg)
+
+![Leadership Talk with Linhua](/assets/linhua3.jpg)

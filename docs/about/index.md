@@ -1,10 +1,12 @@
 # About Me
 
-Welcome to the about me where you can learn more about myself, David :)
+Welcome to the about me where you can learn more about myself, David Montgomery :)
 
 ## School
 
 Prairie View A&M University
+
+Expected Graduation Date: May 2024
 
 ## Major
 

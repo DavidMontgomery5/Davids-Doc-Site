@@ -1,5 +1,5 @@
 module.exports = {
-  title: "David's VitePress Site",
+  title: "David's VitePress Site ",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
