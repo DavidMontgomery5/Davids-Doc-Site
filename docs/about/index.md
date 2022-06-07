@@ -1,3 +1,7 @@
+#### Welcome to the about me where you can learn more about myself, David Montgomery :)
+
+![a picture of myself](/assets/david.jpg)
+
 # About Me
 
 Welcome to the about me where you can learn more about myself, David Montgomery :)
