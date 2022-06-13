@@ -4,7 +4,7 @@
 
 ## Definitions
 
-Incididunt esse veniam magna sit reprehenderit do. Nostrud excepteur reprehenderit sint et ullamco pariatur dolore ea ea esse do excepteur. Elit anim anim officia eu. Duis occaecat id qui proident eiusmod. Occaecat cillum excepteur exercitation anim est labore laboris enim do sunt aliquip deserunt est cupidatat.
+Web development: Also known by website development, refers to the tasks associated with creating, building, and maintaining websites and web applications that run online on a browser. It may, however, also include web design, web programming, and database management.
 
 ## Cool Details
 

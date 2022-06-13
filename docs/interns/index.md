@@ -42,9 +42,9 @@ Made up quote: "I like lamps"-Leo Zeng
 
 ## Cameron Matthews
 
-Opinion of me: ""
+Opinion of me: "really tall and smart and knowledgable"
 
-Zodiac Sign:
+Zodiac Sign: Leo
 
 Made up quote: ""-Cameron M
 
