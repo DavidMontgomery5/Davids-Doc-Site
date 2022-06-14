@@ -45,14 +45,18 @@ This will be filled out at the end of my Summer Internship.
 
 ## Views from Surge
 
+### Meeting Linhua
+
 ![Meeting Linhua for the First Time](/assets/linhua.jpg)
+
+### Leadership Talk
 
 ![Leadership Talk with Linhua](/assets/linhua3.jpg)
 
-## Picture Debug
+### My Whiteboard
 
 ![a picture of my whiteboard](/assets/board.jpg)
 
-![First Dinner with Surge](/assets/firstdinner.jpg)
+### First Dinner with Surge
 
-## Picture Debug
+![First Dinner with Surge](/assets/firstdinner.jpg)
