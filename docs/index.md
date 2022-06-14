@@ -54,3 +54,5 @@ This will be filled out at the end of my Summer Internship.
 ![a picture of my whiteboard](/assets/board.jpg)
 
 ![First Dinner with Surge](/assets/firstdinner.jpg)
+
+## Picture Debug
