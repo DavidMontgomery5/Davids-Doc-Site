@@ -1,4 +1,4 @@
-## Table of Content
+## Table of Contents
 
 [[toc]]
 
@@ -45,10 +45,10 @@ This will be filled out at the end of my Summer Internship.
 
 ## Views from Surge
 
-![a picture of my whiteboard](/assets/board.jpg)
-
-![First Dinner with Surge](/assets/firstdinner.jpg)
-
 ![Meeting Linhua for the First Time](/assets/linhua.jpg)
 
 ![Leadership Talk with Linhua](/assets/linhua3.jpg)
+
+![a picture of my whiteboard](/assets/board.jpg)
+
+![First Dinner with Surge](/assets/firstdinner.jpg)
