@@ -10,49 +10,49 @@
 
 ## David Montgomery
 
-Opinion of me: "that david guy is something else"
+Opinion of David: "that david guy is something else"
 
-Zodiac Sign: Sagittarius
+David's Zodiac Sign: Sagittarius
 
 Made up quote: "You either die a hero or you live long enough to see yourself become the villain."-David Montgomery
 
 ## Sofia Del Aguila
 
-Opinion of me: "Extroverted and Friendly"
+Opinion of David: "Extroverted and Friendly"
 
-Zodiac Sign: Cancer
+Sofia's Zodiac Sign: Cancer
 
 Made up quote: "I LIKE SURGE"-Sofia Del Aguila
 
 ## Stefanie Chapa
 
-Opinion of me: "Smart"
+Opinion of David: "Smart"
 
-Zodiac Sign: Libra
+Stefanie's Zodiac Sign: Libra
 
 Made up quote: "Blankness"-Stefanie Chapa
 
 ## Leo Zeng
 
-Opinion of me: "Dilengent"
+Opinion of David: "Dilengent"
 
-Zodiac Sign: Libra
+Leo's Zodiac Sign: Libra
 
 Made up quote: "I like lamps"-Leo Zeng
 
 ## Cameron Matthews
 
-Opinion of me: "really tall and smart and knowledgable"
+Opinion of David: "really tall and smart and knowledgable"
 
-Zodiac Sign: Leo
+Cameron's Zodiac Sign: Leo
 
 Made up quote: ""-Cameron M
 
 ## Cameron Robicheaux
 
-Opinion of me: "Lowkey funny. Asks good questions."
+Opinion of David: "Lowkey funny. Asks good questions."
 
-Zodiac Sign: Pisces
+Cameron's Zodiac Sign: Pisces
 
 Made up quote: "Im panicking" - Cameron R
 

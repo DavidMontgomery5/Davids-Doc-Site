@@ -47,20 +47,16 @@ This will be filled out at the end of my Summer Internship.
 
 ### Meeting Linhua
 
-![Meeting Linhua for the First Time](/assets/linhua.jpg)
+<img src="./assets/linhua.jpg" alt="Meeting Linhua for the 1st time" />
 
 ### Leadership Talk
 
-![Leadership Talk with Linhua](/assets/linhua3.jpg)
+<img src="./assets/linhua3.jpg" alt="Leadership Talk with Linhua" />
 
 ### My Whiteboard
 
-![a picture of my whiteboard](/assets/board.jpg)
+<img src="./assets/board.jpg" alt="Messy Whiteboard that I Use" />
 
 ### First Dinner with Surge
 
-<img src="./assets/firstdinner.jpg" />
-
-![First Dinner with Surge](/assets/firstdinner.jpg)
-
-#### David
+<img src="./assets/firstdinner.jpg" alt="First Dinner with Surge" />

@@ -2,7 +2,7 @@
 
 ## May Summary
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum nisi dolorem tenetur earum. Omnis pariatur earum, necessitatibus, minus consequuntur consectetur exercitationem labore doloribus est impedit asperiores placeat sequi maiores debitis totam soluta tempore similique! Et aliquid eos cumque fuga asperiores reiciendis sint laboriosam aperiam id aliquam libero labore perspiciatis sed ullam at, eligendi ducimus corrupti magni. Fuga provident voluptas delectus ipsum voluptatum dicta pariatur voluptate explicabo laborum perspiciatis aut libero earum corrupti corporis quibusdam nihil perferendis excepturi odit doloribus debitis, vitae iusto ab aliquid nam! Voluptatum, iusto vitae! Ratione voluptatibus odio suscipit aperiam architecto ea fuga officiis illum ipsum quos!
+With May coming to an end, it will be hard to forget my first days at Surge Energy. It started with a smooth and lively introduction into the company then straight to work which is amazing because i've been trying to put my computer science skills to use for a long time. The projects that i'm working on arent just an assignment for a grade, it's actual work for the company that will improve and help the company even after my internship is complete. From this documentation site to the company intranet page, knowing what I do will be apart of the company makes me want to try even harder. From the people i've met aloog the way, it's easy for me to say that the people I work with truly care about my well being and want me to succeed. People at Surge wont hesitate to teach me anything because they know what it's like to be an intern and new to this specific industry, and that means the world to me.
 
 ## May 25 - My First Day
 
