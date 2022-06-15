@@ -31,6 +31,10 @@ module.exports = {
         text: "Blog",
         link: "/blog/",
       },
+      {
+        text: "Views from Surge",
+        link: "/viewsfromsurge/",
+      },
     ],
   },
 };
