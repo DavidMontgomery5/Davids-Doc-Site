@@ -59,4 +59,4 @@ This will be filled out at the end of my Summer Internship.
 
 ### First Dinner with Surge
 
-<img src="./assets/firstdinner.jpg" alt="First Dinner with Surge" />
+![First Dinner with Surge Energy](/assests/firstdinner.jpg)
