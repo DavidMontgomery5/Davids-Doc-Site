@@ -46,7 +46,7 @@ Opinion of David: "really tall and smart and knowledgable"
 
 Cameron's Zodiac Sign: Leo
 
-Made up quote: ""-Cameron M
+Made up quote: "I think, therefore I am"-Cameron M
 
 ## Cameron Robicheaux
 
