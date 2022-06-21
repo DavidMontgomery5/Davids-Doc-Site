@@ -18,7 +18,7 @@ June 13th was a day full of learning how data travels after information leaves t
 
 ## Week of June 20th - June 24th
 
-Amet ullamco magna ea deserunt culpa sunt dolore. Dolore officia sit dolor commodo ipsum nulla exercitation et excepteur eiusmod voluptate. Laboris laborum excepteur nisi do. Dolore reprehenderit aute Lorem laboris sint. Officia ipsum elit incididunt anim aliquip magna incididunt incididunt cupidatat reprehenderit officia.
+Today I Had Spotfire Training and I worked on the Application Site for Sharepoint and I will go more into more detail tommorow.
 
 ## Week of June 27th - July 1st
 
