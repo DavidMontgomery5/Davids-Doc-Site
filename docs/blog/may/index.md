@@ -6,19 +6,19 @@ With May coming to an end, it will be hard to forget my first days at Surge Ener
 
 ## May 25 - My First Day
 
-This was my introduction to Documentation Sites. Taj helped me Organize this.
+- This was my introduction to Documentation Sites. Taj helped me Organize this.
 
 ## May 26 - Project Brainstorm
 
-Today I had an Meeting with the IDS team and we talked about what we were working on and the Status Updates of some of our completed projects along with some that we are still working on. Me and my fellow interns had lunch with Travis and James Welch.
+- Today I had an Meeting with the IDS team and we talked about what we were working on and the Status Updates of some of our completed projects along with some that we are still working on. Me and my fellow interns had lunch with Travis and James Welch.
 
 ## May 27 - IDS Background
 
-Today I finished my Internship journal and had a meeting with Curtis and Cameron about the background of the IDS department and how its gotten to where it is now. Which gave me a lot of insight because if I want to make changes to the Intranet. I have to to understand where its came from. I also showed them some of my visions for the future and an improved layout to the Reporting Development Site.
+- Today I finished my Internship journal and had a meeting with Curtis and Cameron - about the background of the IDS department and how its gotten to where it is now. Which gave me a lot of insight because if I want to make changes to the Intranet. I have to to understand where its came from. I also showed them some of my visions for the future and an improved layout to the Reporting Development Site.
 
 ## May 31 - Self Serving
 
-Today I had a Team Meeting with the IDS department about the status of our individual projects. Curtis's main goal is the make the new intranet self serving. Taj also brought up a good point that their also has to be a Training System for the new intranet because people will need to know where to go to get certain information.
+- Today I had a Team Meeting with the IDS department about the status of our individual projects. Curtis's main goal is the make the new intranet self serving. Taj also brought up a good point that their also has to be a Training System for the new intranet because people will need to know where to go to get certain information.
 
 ### Back to [Home](/)
 

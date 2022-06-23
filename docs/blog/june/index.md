@@ -32,7 +32,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum nisi dolorem t
 
 - June 20th I Had Spotfire Training and I worked on the Application Site for Sharepoint and I will go more into more detail tommorow.
 - June 21st I worked really hard on organizing the applications page while completing my UKG training courses for field knowledge before my trip.
-- June 22nd Eiusmod anim consequat commodo sunt exercitation deserunt adipisicing do.
+- June 22nd Had a leadership meeting with Glenn
 - June 23rd Voluptate deserunt minim amet qui et elit velit.
 - June 24th Amet ea do sunt exercitation esse et excepteur.
 
