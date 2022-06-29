@@ -33,13 +33,13 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum nisi dolorem t
 - June 20th I Had Spotfire Training and I worked on the Application Site for Sharepoint and I will go more into more detail tommorow.
 - June 21st I worked really hard on organizing the applications page while completing my UKG training courses for field knowledge before my trip.
 - June 22nd Had a leadership meeting with Glenn
-- June 23rd Voluptate deserunt minim amet qui et elit velit.
-- June 24th Amet ea do sunt exercitation esse et excepteur.
+- June 23rd - Met Joe Fleming who is the head of opperations in Moss Creek. Then later that day, we had a Surge Happy Hour meeting which was really fun and also when they showcased the new office there moving too.
+- June 24th - Came up with a set date for the volunteer day, which is July 27 at 8 AM. Then had a Touch Base + Lunch with Curtis where we talked about how things are constanly changing.
 
 ## Week of June 27th - July 1st
 
-- June 27th Aute et occaecat aute excepteur dolore tempor nisi.
-- June 28th Nostrud est dolor eiusmod amet adipisicing.
+- June 27th was the First Field Visit
+- June 28th was the Second Field visit
 - June 29th Eu consectetur consectetur qui occaecat ea occaecat laborum ullamco
 - June 30th Aliquip qui id amet dolore laboris incididunt dolore reprehenderit.
 - July 1st Esse sunt nulla veniam consectetur commodo consequat ea cupidatat.
