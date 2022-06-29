@@ -35,6 +35,10 @@ module.exports = {
         text: "Views from Surge",
         link: "/viewsfromsurge/",
       },
+      {
+        text: "Moss Creek Field Visit",
+        link: "/mosscreek/",
+      },
     ],
   },
 };
