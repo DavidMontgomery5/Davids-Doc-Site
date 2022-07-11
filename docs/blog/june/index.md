@@ -40,9 +40,9 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum nisi dolorem t
 
 - June 27th was the First Field Visit
 - June 28th was the Second Field visit
-- June 29th Eu consectetur consectetur qui occaecat ea occaecat laborum ullamco
-- June 30th Aliquip qui id amet dolore laboris incididunt dolore reprehenderit.
-- July 1st Esse sunt nulla veniam consectetur commodo consequat ea cupidatat.
+- June 29th , I spent most of the day updating my my Doc Site and decided that I wanted to mak ea whole new tab dedicated to the Moss Creek Field Visit.
+- June 30th
+- July 1st
 
 ### Back to [Home](/)
 

@@ -10,6 +10,8 @@ Throughout this documentation site you will see how my time at Surge Energy was 
 
 Get in touch with me by going to the [Contact Page](/contact/)
 
+Follow me on [Github](https://github.com/davxdm)
+
 ## Code Example
 
 ```css
